@@ -68,7 +68,7 @@ Tipo: Tree map
 → Visualizaciones personalizadas y KPI cards
 
 ### 📁 Archivos Incluidos
-→ dashboard.pbix → Archivo editable del dashboard en Power BI
+→ Proyecto Power BI - Electric Vehicle Population.pbix → Archivo editable del dashboard en Power BI
 
 → Capturas de pantalla de los reportes visuales
 
