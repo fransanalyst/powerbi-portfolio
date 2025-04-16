@@ -19,9 +19,13 @@ Este proyecto analiza el panorama de los vehículos eléctricos (EVs) en EE.UU.,
 
 
 🚗 Total de Vehículos	Cantidad total de vehículos eléctricos (BEV + PHEV).
+
 ⚡ Rango Eléctrico Promedio	Promedio del rango eléctrico de todos los vehículos.
+
 🔋 Total de BEVs (%)	Total de vehículos 100% eléctricos y su porcentaje del total.
+
 ♻️ Total de PHEVs (%)	Total de híbridos enchufables y su porcentaje del total.
+
 
 ![KPIs Electric Vehicles](https://github.com/user-attachments/assets/b0ca608f-49f2-4a58-b8b8-2b8885b6b029)
 
